@@ -1,3 +1,0 @@
-C:/Users/David/source/repos/StringPlay/StringPlay/cmake-build-minsizerel/CMakeFiles/StringPlay.dir
-C:/Users/David/source/repos/StringPlay/StringPlay/cmake-build-minsizerel/CMakeFiles/edit_cache.dir
-C:/Users/David/source/repos/StringPlay/StringPlay/cmake-build-minsizerel/CMakeFiles/rebuild_cache.dir

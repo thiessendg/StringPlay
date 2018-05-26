@@ -1,3 +1,0 @@
-C:/Users/David/source/repos/StringPlay/StringPlay/cmake-build-release/CMakeFiles/StringPlay.dir
-C:/Users/David/source/repos/StringPlay/StringPlay/cmake-build-release/CMakeFiles/edit_cache.dir
-C:/Users/David/source/repos/StringPlay/StringPlay/cmake-build-release/CMakeFiles/rebuild_cache.dir

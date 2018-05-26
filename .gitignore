@@ -259,3 +259,8 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/StringPlay/.idea
+/StringPlay/cmake-build-minsizerel
+/StringPlay/cmake-build-release
+/StringPlay/cmake-build-relwithdebinfo
+/StringPlay/cmake-build-debug
