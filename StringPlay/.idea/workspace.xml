@@ -14,13 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c32aa539-c0f6-4a3f-9567-ecefb7dbfc6f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Progress/1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-release/CMakeFiles/Progress/count.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-relwithdebinfo/CMakeFiles/Progress/1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-relwithdebinfo/CMakeFiles/Progress/count.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="c32aa539-c0f6-4a3f-9567-ecefb7dbfc6f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/cmake-build-release/" />
     <ignored path="$PROJECT_DIR$/cmake-build-relwithdebinfo/" />
@@ -32,7 +26,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:MinSizeRel" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="StringPlay.cpp" pinned="false" current-in-tab="false">
@@ -160,6 +154,7 @@
       <workItem from="1527340327195" duration="8000" />
       <workItem from="1527340352990" duration="553000" />
       <workItem from="1527341622997" duration="160000" />
+      <workItem from="1527342102639" duration="62000" />
     </task>
     <task id="LOCAL-00001" summary="Updated cpp file using dos2unix so that Clion Build would work. Misc. other fixes.">
       <created>1527340540909</created>
@@ -179,14 +174,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3116000" />
+    <option name="totallyTimeSpent" value="3178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49707174" weight="0.32884902" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" sideWeight="0.49707174" visible="true" weight="0.32884902" />
       <window_info anchor="bottom" id="CMake" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5036603" side_tool="true" weight="0.32884902" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32884902" />
@@ -215,6 +211,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated cpp file using dos2unix so that Clion Build would work. Misc. other fixes." />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/StringPlay.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#77#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/StringPlay.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
